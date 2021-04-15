@@ -6,5 +6,8 @@
         "markdown",
         "latex",
         "plaintext"
-    ]
+    ],
+    "staticWebApps.appSubpath": "/",
+    "staticWebApps.apiSubpath": "",
+    "staticWebApps.outputSubpath": "dist"
 }
